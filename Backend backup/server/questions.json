@@ -1,0 +1,19 @@
+[
+    {
+        "question": "What temperature does water boil at?",
+        "optionA": "50 degree Celcius",
+        "optionB": "25 degree celcius",
+        "optionC": "100 degree celcius",
+        "optionD": "150 degree celcius",
+        "answer": "100 degree celsius"
+    },
+    {
+        "question": "Who wrote julius caeser,macbeth and hamlet?",
+        "optionA": "wole soyinka",
+        "optionB": "william shakespeare",
+        "optionC": "ngozi chimamanda adichie",
+        "option D": "dan brown",
+        "answer": "william shakespeare"
+
+    }
+]

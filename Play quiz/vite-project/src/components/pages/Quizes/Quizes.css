@@ -1,0 +1,82 @@
+/* h1,h2{
+
+color:#333333;
+}
+.btn {
+
+font:inherit;
+padding: 0.5rem 1.5rem;
+cursor:pointer;
+border-radius:4px;
+background-color: #800040;
+color:white;
+border:1px solid #800040;
+margin:  1rem;  
+} */
+/* * {
+ box-sizing: border-box;   
+}
+body{
+    font-family: sans-serif;
+    margin:3rem;
+     */
+
+h1,h2{
+    color:#333333;
+
+color:burlywood;
+}
+.btn {
+    font:inherit;
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    background-color: blueviolet;
+color:white;
+border:1px solid blueviolet;
+margin:  1rem;  
+
+}
+/* .btn:hover {
+    background-color: #f8dae9;
+
+}  */
+/* .btn{
+padding: 15px 25px;
+font-size:24px;
+text-align: center;
+cursor:pointer;
+outline: none;
+color:#fff;
+background-color: #04AA6D;
+border: none;
+border-radius: 15px;
+box-shadow: 0 9px #999;
+
+
+}
+.btn:hover
+{
+background-color: #3e8e41;
+} */
+.btn:active{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.card {
+    box-sizing: border-box; 
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    padding: 1rem;
+    width:30rem;
+    font-family:'Times New Roman', Times, serif;
+    margin:3rem;
+    background-color: aqua;
+}
+.actions {
+    text-align:right;
+}
+.main{
+    display: flex;
+}

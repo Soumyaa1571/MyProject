@@ -1,0 +1,108 @@
+.forms{
+  border-radius:8px;
+  border: 0.5px solid #FFF;
+  backdrop-filter:blur(10px);
+  padding:30px;
+  margin-top: 0px;
+  margin-left:600px;
+  background-color: black; 
+  /* background-color: violet; */
+  color:black;
+  margin: 4% 20% 20% 20%;  
+  /* position: fixed; */
+  /* position:relative; */
+}
+
+.forms{
+  padding-top:20px;
+  /* background-color:aqua; */
+}
+.inputSignUp{
+  display:flex;
+  flex-direction:column;
+  padding-top:10px;
+}
+.inputSignUp input{
+  background-color: transparent;
+  border-radius: 4px;
+  border: 0.833px solid #D4D7E3;
+  padding: 12px 20px;
+  color: white;
+  margin-top: 10px;
+
+}
+.inputSignUp label{
+  color: #FFF;
+    background: rgba(255, 255, 255, 0.01);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0.16px;
+}
+/* h1{
+  color: brown;
+} */
+h1{
+  color:white;
+}
+.submit
+  {
+    width: 100%;
+    background-color: #186090;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 12px 0px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.submit:hover{
+background-color: #04AA6D;
+color: white;
+}
+.next
+{
+  width: 100%;
+  background-color: #186090;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 12px 0px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.previous
+{
+  width: 100%;
+  background-color: #186090;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 12px 0px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.previous:hover{
+  background-color: yellow;
+  color: white;
+  }
+  .next:hover{
+    background-color: orange;
+    color: white;
+    }
+    .button-container button:hover {
+      background-color: pink;
+    }
+    
+    .button-container button.previous:hover {
+      background-color: #007bff;
+    }
+    
+    .button-container button.submit:hover {
+      background-color: #007bff;
+    }
+    
+    .button-container button.next:hover {
+      background-color: #007bff;
+    }
